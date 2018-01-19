@@ -8,6 +8,7 @@ Use your GraphQL server data in your Angular 1.0 app, with the [Apollo Client](h
 
 * [Install](#install)
 * [Development](#development)
+* [Live Example](https://codesandbox.io/s/l4r87nqj5z)
 
 ## Install
 
